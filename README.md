@@ -1,5 +1,12 @@
 # TSU Custom Cars
 
+
+FOR DAMAGE PHYSICS MOD: https://github.com/stagkiller121/TSU-Crash-Damage
+
+FOR AUTO AI PATHING FOR ALL CUSTOM TRACKS: https://github.com/stagkiller121/TSU-Auto-AI
+
+FOR ORGANIZED PLUG-INS TO SHOW IN GAME: https://github.com/stagkiller121/TSU-Addon-Plugins
+
 A plugin for **Turbo Sliders Unlimited** that brings custom 3D car models into the game. Turbo Sliders ships 18
 car bodies; with this plugin a vehicle can use any `.glb` model on top of the stock physics, and custom cars are
 shared through the normal **Steam Workshop**.
